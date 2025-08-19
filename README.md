@@ -15,15 +15,10 @@ Predicción de clientes Churn  en la empresa TelecomX_Latam
 Este proyecto aplica **técnicas de Machine Learning** para predecir la **deserción de clientes (Churn)** en una empresa de telecomunicaciones.  
 Se busca identificar qué clientes tienen más probabilidad de cancelar el servicio, permitiendo diseñar estrategias de **retención** y optimización de recursos.  
 
-El trabajo incluye dos enfoques:  
-1. **Nivel básico (estudiante en formación):** Código directo, sencillo y enfocado en obtener resultados.  
-2. **Nivel intermedio (explicativo):** Flujo completo con mayor detalle, visualizaciones y explicaciones pedagógicas.  
-
 ---
 
 ## 📂 Contenido del repositorio  
 
-- 📒 **TelecomX_ML_Basico.ipynb** → Notebook sencillo con modelamiento directo.  
 - 📒 **TelecomX_ML_Intermedio.ipynb** → Notebook con explicaciones, visualizaciones y comparaciones.  
 - 📑 **Informe_Final_TelecomX.pdf** → Informe ejecutivo con resultados y conclusiones.  
 - 📄 **README.md** → Este archivo con la guía del proyecto.  
