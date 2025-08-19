@@ -1,8 +1,5 @@
-# TelecomX_2_LATAM-ML
-Predicción de clientes Churn  en la empresa TelecomX_Latam
-
-
-# 📊 Proyecto de Machine Learning: Predicción de Churn en TelecomX LATAM  
+# 📊 Proyecto de Machine Learning:
+Predicción de clientes Churn  en la empresa TelecomX_Latam_P2
 
 ![ML](https://img.shields.io/badge/Machine%20Learning-Churn-blue)  
 ![Python](https://img.shields.io/badge/Python-3.10%2B-green)  
